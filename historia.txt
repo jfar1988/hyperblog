@@ -1,5 +1,11 @@
-Esta es la historia de Juan Fernando Aguilar
+Esta es la historia de Freddy Vega
 
+<<<<<<< HEAD
 Juan Fernando Aguilar tiene 33 años y nació en Colombia, y viajando por todo el mundo
 
 Hoy hablaremos de su vida y obra maestra
+=======
+Freddy Vega tiene 32 años y nació en Colombia
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
